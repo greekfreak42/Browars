@@ -1,0 +1,57 @@
+[
+{
+  "directory": "/home/creativelk/Desktop/Browars/build",
+  "command": "/bin/x86_64-linux-gnu-g++-9   -I/home/creativelk/Desktop/Browars/include -I/home/creativelk/Desktop/Browars/lib/sfeMovie/include   -Wall -g   -std=gnu++11 -o CMakeFiles/Browars.dir/main.cpp.o -c /home/creativelk/Desktop/Browars/main.cpp",
+  "file": "/home/creativelk/Desktop/Browars/main.cpp"
+},
+{
+  "directory": "/home/creativelk/Desktop/Browars/build",
+  "command": "/bin/x86_64-linux-gnu-g++-9   -I/home/creativelk/Desktop/Browars/include -I/home/creativelk/Desktop/Browars/lib/sfeMovie/include   -Wall -g   -std=gnu++11 -o CMakeFiles/Browars.dir/src/game_loop.cpp.o -c /home/creativelk/Desktop/Browars/src/game_loop.cpp",
+  "file": "/home/creativelk/Desktop/Browars/src/game_loop.cpp"
+},
+{
+  "directory": "/home/creativelk/Desktop/Browars/build",
+  "command": "/bin/x86_64-linux-gnu-g++-9   -I/home/creativelk/Desktop/Browars/include -I/home/creativelk/Desktop/Browars/lib/sfeMovie/include   -Wall -g   -std=gnu++11 -o CMakeFiles/Browars.dir/src/gui/gui.cpp.o -c /home/creativelk/Desktop/Browars/src/gui/gui.cpp",
+  "file": "/home/creativelk/Desktop/Browars/src/gui/gui.cpp"
+},
+{
+  "directory": "/home/creativelk/Desktop/Browars/build",
+  "command": "/bin/x86_64-linux-gnu-g++-9   -I/home/creativelk/Desktop/Browars/include -I/home/creativelk/Desktop/Browars/lib/sfeMovie/include   -Wall -g   -std=gnu++11 -o CMakeFiles/Browars.dir/src/init.cpp.o -c /home/creativelk/Desktop/Browars/src/init.cpp",
+  "file": "/home/creativelk/Desktop/Browars/src/init.cpp"
+},
+{
+  "directory": "/home/creativelk/Desktop/Browars/build",
+  "command": "/bin/x86_64-linux-gnu-g++-9   -I/home/creativelk/Desktop/Browars/include -I/home/creativelk/Desktop/Browars/lib/sfeMovie/include   -Wall -g   -std=gnu++11 -o CMakeFiles/Browars.dir/src/button.cpp.o -c /home/creativelk/Desktop/Browars/src/button.cpp",
+  "file": "/home/creativelk/Desktop/Browars/src/button.cpp"
+},
+{
+  "directory": "/home/creativelk/Desktop/Browars/build",
+  "command": "/bin/x86_64-linux-gnu-g++-9   -I/home/creativelk/Desktop/Browars/include -I/home/creativelk/Desktop/Browars/lib/sfeMovie/include   -Wall -g   -std=gnu++11 -o CMakeFiles/Browars.dir/src/gui/intro.cpp.o -c /home/creativelk/Desktop/Browars/src/gui/intro.cpp",
+  "file": "/home/creativelk/Desktop/Browars/src/gui/intro.cpp"
+},
+{
+  "directory": "/home/creativelk/Desktop/Browars/build",
+  "command": "/bin/x86_64-linux-gnu-g++-9   -I/home/creativelk/Desktop/Browars/include -I/home/creativelk/Desktop/Browars/lib/sfeMovie/include   -Wall -g   -std=gnu++11 -o CMakeFiles/Browars.dir/src/gui/main_menu.cpp.o -c /home/creativelk/Desktop/Browars/src/gui/main_menu.cpp",
+  "file": "/home/creativelk/Desktop/Browars/src/gui/main_menu.cpp"
+},
+{
+  "directory": "/home/creativelk/Desktop/Browars/build",
+  "command": "/bin/x86_64-linux-gnu-g++-9   -I/home/creativelk/Desktop/Browars/include -I/home/creativelk/Desktop/Browars/lib/sfeMovie/include   -Wall -g   -std=gnu++11 -o CMakeFiles/Browars.dir/src/gui/not_supported.cpp.o -c /home/creativelk/Desktop/Browars/src/gui/not_supported.cpp",
+  "file": "/home/creativelk/Desktop/Browars/src/gui/not_supported.cpp"
+},
+{
+  "directory": "/home/creativelk/Desktop/Browars/build",
+  "command": "/bin/x86_64-linux-gnu-g++-9   -I/home/creativelk/Desktop/Browars/include -I/home/creativelk/Desktop/Browars/lib/sfeMovie/include   -Wall -g   -std=gnu++11 -o CMakeFiles/Browars.dir/src/gui/select_character.cpp.o -c /home/creativelk/Desktop/Browars/src/gui/select_character.cpp",
+  "file": "/home/creativelk/Desktop/Browars/src/gui/select_character.cpp"
+},
+{
+  "directory": "/home/creativelk/Desktop/Browars/build",
+  "command": "/bin/x86_64-linux-gnu-g++-9   -I/home/creativelk/Desktop/Browars/include -I/home/creativelk/Desktop/Browars/lib/sfeMovie/include   -Wall -g   -std=gnu++11 -o CMakeFiles/Browars.dir/src/gui/select_region.cpp.o -c /home/creativelk/Desktop/Browars/src/gui/select_region.cpp",
+  "file": "/home/creativelk/Desktop/Browars/src/gui/select_region.cpp"
+},
+{
+  "directory": "/home/creativelk/Desktop/Browars/build",
+  "command": "/bin/x86_64-linux-gnu-g++-9   -I/home/creativelk/Desktop/Browars/include -I/home/creativelk/Desktop/Browars/lib/sfeMovie/include   -Wall -g   -std=gnu++11 -o CMakeFiles/Browars.dir/src/gui/singleplayer.cpp.o -c /home/creativelk/Desktop/Browars/src/gui/singleplayer.cpp",
+  "file": "/home/creativelk/Desktop/Browars/src/gui/singleplayer.cpp"
+}
+]

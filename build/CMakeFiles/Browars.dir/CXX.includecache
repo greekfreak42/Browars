@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+../include/browars/gui/select_character.hpp
+SFML/Graphics.hpp
+-
+vector
+-
+string
+-
+
+/home/creativelk/Desktop/Browars/src/gui/select_character.cpp
+browars/gui/select_character.hpp
+/home/creativelk/Desktop/Browars/src/gui/browars/gui/select_character.hpp
+fstream
+-
+

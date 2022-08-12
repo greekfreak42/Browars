@@ -1,0 +1,9 @@
+#ifndef BROWARS_GAME_STAGE
+#define BROWARS_GAME_STAGE
+
+namespace Browars
+{
+    enum GameStage { NOT_SUPPORTED, INTRO, MAIN_MENU, SINGLEPLAYER, SELECT_REGION, SELECT_CHARACTER };
+}
+
+#endif

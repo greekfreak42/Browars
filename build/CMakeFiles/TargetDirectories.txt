@@ -1,0 +1,3 @@
+/home/creativelk/Desktop/Browars/build/CMakeFiles/rebuild_cache.dir
+/home/creativelk/Desktop/Browars/build/CMakeFiles/edit_cache.dir
+/home/creativelk/Desktop/Browars/build/CMakeFiles/Browars.dir
